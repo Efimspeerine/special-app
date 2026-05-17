@@ -2,3 +2,4 @@ logs/*.log
 !logs/sample.log
 actions.js
 *.DS_Store
+!metrics_delivery.log
