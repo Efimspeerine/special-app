@@ -3,7 +3,11 @@
 }
 
 html, body {
+<<<<<<< Updated upstream
 
+=======
+       margin: 0;
+>>>>>>> Stashed changes
     padding: 0;
     height: 100%;
 }
